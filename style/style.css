@@ -10,6 +10,9 @@ body {
     margin: auto;
     width: 70%;
 }
+.card{
+    width: 10rem;
+}
 
 .videos {
     display: flex;
