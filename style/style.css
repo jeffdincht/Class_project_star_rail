@@ -14,20 +14,20 @@ article {
     width: 70%;
 }
 
-.container{
+.container {
     margin: auto;
 }
 
-p, h1, h6, hr{
+p, h1, h6, hr {
     color: aliceblue;
 }
 
-a{
+a {
     text-decoration: none;
 }
 
-h3{
-    margin-top:auto;
+h3 {
+    margin-top: auto;
 
 }
 
@@ -56,23 +56,23 @@ footer {
 /*
 Home Page
 */
-.sites{
+.sites {
     display: flex;
     justify-content: center;
     gap: 10px;
     color: aliceblue;
 }
 
-.slide{
+.slide {
     margin-top: 10px;
 }
 
-.star-rail-description{
+.star-rail-description {
     margin: 5%;
     font-size: 20px;
 }
 
-form{
+form {
     width: 70%;
     margin: auto;
 }
@@ -82,7 +82,7 @@ form{
     width: 70%;
 }
 
-.card{
+.card {
     background: transparent;
     border: none;
 }
@@ -99,19 +99,19 @@ form{
 /*
 Character Page
 */
-.item-image{
+.item-image {
     width: 40%;
 }
 
-.item-card-body{
+.item-card-body {
     display: flex;
 }
 
-.item-description{
+.item-description {
     margin: auto;
 }
 
-.card-item{
+.card-item {
     width: 17rem;
     animation: bounce 1.3s ease-out alternate infinite;
 }
@@ -132,8 +132,9 @@ Character Page
     -webkit-animation-delay: 1.2s;
 }
 
-.character-img{
-    width: 90%; border-radius: 100%;
+.character-img {
+    width: 90%;
+    border-radius: 100%;
 }
 
 
@@ -147,12 +148,12 @@ Character Page
 /*
 Contact page
 */
-.contact-container{
+.contact-container {
     margin: auto;
 }
 
-.form-group{
-margin: 10px;
+.form-group {
+    margin: 10px;
 }
 
 .button-form {
@@ -168,7 +169,7 @@ Animations
     from {
         transform: translateY(0);
     }
-    to{
+    to {
         transform: translateY(-10%);
     }
 }
