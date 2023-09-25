@@ -18,8 +18,8 @@ The project consists in 3 static pages:
   - Footer is always on bot (Css styled);
   - Gif background;
 
-![HomePage](assets%2FScreenShot%20Tool%20-20230925142909.png)
+![HomePage](assets/HomePage.png)
 
-![CharacterPage](assets%2FScreenShot%20Tool%20-20230925142934.png)
+![CharacterPage](assets/CharacterPage.png)
 
-![ContactPage](assets%2FScreenShot%20Tool%20-20230925142957.png)
+![ContactPage](assets/ContactPage.png)
